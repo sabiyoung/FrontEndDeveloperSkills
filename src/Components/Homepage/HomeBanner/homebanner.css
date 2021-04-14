@@ -1,0 +1,35 @@
+.homeBanner__img {
+  height: 700px;
+  width: 100%;
+}
+.homeBanner__text > h1 {
+  color: #fff;
+  font-size: 80px;
+}
+.homeBanner__text > p {
+  color: #fff;
+  font-size: 40px;
+  text-decoration: underline;
+  margin-left: 120px;
+}
+.homeBanner__text > button {
+  padding: 20px 50px;
+  background-color: #000;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 40px;
+  margin-left: 200px;
+  border-style: none;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.top-left {
+  position: absolute;
+  top: -30%;
+  left: -40%;
+  height: 100px;
+}

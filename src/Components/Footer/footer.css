@@ -1,0 +1,46 @@
+.footer {
+  display: flex;
+  margin: 90px;
+  justify-content: space-evenly;
+}
+
+.footer__Advice {
+  padding: 20px 100px 0 100px;
+  color: #fff;
+  border-radius: 20px;
+  /* font-size: 20px; */
+  background: linear-gradient(
+    104.61deg,
+    #ff00b8 2.65%,
+    #ff655b 51.83%,
+    #ffc700 100%
+  );
+}
+
+.footer__join {
+  padding: 0 100px 0 100px;
+  color: #fff;
+  border-radius: 20px;
+  /* font-size: 30px; */
+
+  background: linear-gradient(
+    104.61deg,
+    #ff00b8 2.65%,
+    #ff655b 51.83%,
+    #ffc700 100%
+  );
+}
+
+.footer__Help {
+  padding: 20px 100px 0 100px;
+  color: #fff;
+  border-radius: 20px;
+  /* font-size: 20px; */
+
+  background: linear-gradient(
+    104.61deg,
+    #ff00b8 2.65%,
+    #ff655b 51.83%,
+    #ffc700 100%
+  );
+}

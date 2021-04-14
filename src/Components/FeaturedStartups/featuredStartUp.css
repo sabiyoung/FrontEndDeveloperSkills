@@ -1,0 +1,16 @@
+.starupWapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+  align-items: flex-end;
+}
+.featured {
+  color: #3c3b88;
+  padding-top: 10px;
+  padding-left: 30px;
+  font-size: 40px;
+  font-weight: 500;
+}
+.starupWapperNew {
+  display: flex;
+}

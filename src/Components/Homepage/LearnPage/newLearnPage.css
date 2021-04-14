@@ -1,0 +1,71 @@
+.LearnPage {
+  margin: 60px;
+}
+.newLearnPage__title {
+  margin-left: 120px;
+  padding-top: 30px;
+  /* border-left: 6px solid #ff00b8; */
+}
+.newLearnPage__title > h1 {
+  font-weight: 700;
+  font-size: 70px;
+  padding-left: 10px;
+}
+.newLearnPage__title > h2 {
+  font-weight: 700;
+  margin-bottom: -20px;
+  padding-left: 20px;
+}
+.newLearnPage__title > p {
+  padding-left: 20px;
+  color: #7a7c82;
+}
+.newLearnPage__text > p {
+  color: #7a7c82;
+}
+.newLearnPage__contents {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 5px;
+}
+.newLearnPage__courses > h6 {
+  height: 50px;
+  background-color: darkblue;
+  color: white;
+  padding: 30px;
+  margin-top: -7px;
+}
+.newLearnPage__courses > h6:hover {
+  background-color: #ff00b8;
+  cursor: pointer;
+}
+
+.newLearnPage__member {
+  display: flex;
+}
+.newLearnPage__acesses {
+  display: block;
+  margin-left: 50px;
+  padding: 70px 100px 100px 90px;
+}
+.newLearnPage__firstRow {
+  display: flex;
+}
+.newLearnPage__secondRow {
+  display: flex;
+}
+.newLearnPage__member {
+  padding-right: 60px;
+  padding-bottom: 30px;
+}
+.newLearnPage__describtion > h6 {
+  font-weight: 700;
+}
+.newLearnPage__describtion > p {
+  color: #7a7c82;
+}
+.member_icon {
+  background-color: #ff00b8;
+  color: white;
+  margin-right: 20px;
+}

@@ -1,0 +1,42 @@
+.home__wrapper {
+  background: linear-gradient(
+    104.61deg,
+    #ff00b8 2.65%,
+    #ff655b 51.83%,
+    #ffc700 100%
+  );
+}
+.home__banner {
+  display: flex;
+  padding-right: 200px;
+  background: linear-gradient(
+    104.61deg,
+    #ff00b8 2.65%,
+    #ff655b 51.83%,
+    #ffc700 100%
+  );
+}
+.map {
+  height: 420px;
+  margin-right: 40px;
+}
+.vector2 {
+  height: 420px;
+  margin-right: -30px;
+}
+
+.invest {
+  height: 130px;
+  margin-bottom: 30px;
+}
+
+.group {
+  height: 150px;
+  margin-top: 10px;
+  margin-left: 400px;
+  margin-bottom: -60px;
+}
+
+.logo {
+  margin-bottom: 10px;
+}

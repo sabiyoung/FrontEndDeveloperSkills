@@ -1,0 +1,46 @@
+.startup__card {
+  flex: 0.2;
+  height: 300px;
+  width: 280px;
+  border: 4px solid #ff655b;
+  border-radius: 60px;
+  margin-left: 20px;
+}
+.startup__name {
+  font-size: 40px;
+}
+.name {
+  margin-top: -60px;
+  padding-left: 25px;
+  color: #3c3b88;
+}
+.startup__logo {
+  margin-left: 50px;
+  margin-top: -20px;
+}
+
+.setting {
+  height: 200px;
+  padding-top: 5px;
+  margin-top: 5px;
+}
+.mapone {
+  height: 200px;
+}
+.settingOne {
+  height: 140px;
+  margin-top: -160px;
+}
+.light {
+  height: 100px;
+  margin-left: -100px;
+  margin-top: -145px;
+}
+.hand {
+  height: 150px;
+  margin-top: 50px;
+  margin-left: 70px;
+}
+.logos {
+  margin-top: -190px;
+}
